@@ -1,2 +1,7 @@
-# northshinestudio.github.io
-Northshine Studio website and Unity tool documentation
+# Northshine Studio
+
+Website and documentation for Northshine Studio Unity tools.
+
+Live website: https://northshinestudio.github.io
+
+Support: northshinestudio@outlook.com
